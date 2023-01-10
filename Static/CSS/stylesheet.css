@@ -57,35 +57,35 @@ header{
 }
 
 #education{
-    background-color:#080708;
+    background-color:#9ABD97;
     color: #FBFBF2;
     display: flex;
     flex-direction: row;
 }
 
 #achievement{
-    background-color:#080708;
+    background-color:#9ABD97;
     color: #FBFBF2;
     display: flex;
     flex-direction: row;
 }
 
 #skills{
-    background-color:#080708;
+    background-color:#9ABD97;
     color: #FBFBF2;
     display: flex;
     flex-direction: row
 }
 
 #experience{
-    background-color:#080708;
+    background-color:#9ABD97;
     color: #FBFBF2;
     display: flex;
     flex-direction: row
 }
 
 #heading{ 
-    background-color: #285943;
+    background-color:#9ABD97;
     color: #FBFBF2;
     font-size: 110%;
 }
@@ -106,7 +106,7 @@ footer{
     padding: 0%;
 }
 .details{
-    background-color: #080708;
+    background-color: #285943;
     color:#FBFBF2   
 }
 
@@ -130,7 +130,18 @@ footer{
      color: #FBFBF2;
  }
 
+ .card-title{
+     color: #6da34d !important;
+ }
  
+ .btn, .btn-primary{
+     background-color: #6da34d !important;
+ }
+
+ .card{
+     background-color: #285943 !important;
+     color: #FBFBF2 !important;
+ }
 
 
 
