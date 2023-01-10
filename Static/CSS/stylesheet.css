@@ -10,5 +10,11 @@ img{
     margin-right: 20px;
     margin-bottom: 20px;
     object-fit: cover;
-    ma
+}
+
+.row{
+    text-align: center;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
 }
