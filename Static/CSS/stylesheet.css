@@ -18,3 +18,10 @@ img{
     display: flex;
     justify-content: center;
 }
+
+.bg-light{
+    background-color: #92AA9B !important;
+    
+    
+}
+
