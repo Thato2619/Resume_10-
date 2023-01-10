@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+img{
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    object-fit: cover;
+}
