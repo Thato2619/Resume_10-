@@ -139,7 +139,11 @@ footer{
  }
 
  .card{
-     background-color: #285943 !important;
+     background-color: #285943!important;
+     color: #FBFBF2 !important;
+ }
+
+ .display-2{
      color: #FBFBF2 !important;
  }
 
