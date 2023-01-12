@@ -153,7 +153,18 @@ footer{
     text-align: center;
     color: #FBFBF2;
 }
- 
+
+@media screen and (max-width: 768px){
+    body{
+        background-color: #080708;
+        color: #FBFBF2;
+    }
+
+    footer{
+        background-color: #FBFBF2 !important;
+        color: #080708 !important;
+    }
+}
 
 
 
