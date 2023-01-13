@@ -158,7 +158,7 @@ footer{
     width: auto;
     margin: 0 10px;
     box-shadow: #FBFBF2;
-    transition: 1s;
+    transition: 0.7s;
 }
 
 .hover:hover{
